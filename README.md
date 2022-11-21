@@ -13,7 +13,7 @@
 
 <br />
 
-<div style="width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x6tri3n0g&hide_border=true&layout=compact&theme=algolia" align="left" style="width: 50%; height: 160px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=x6tri3n0g&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="left" style="width: 50%; height: 160px;" />
+<div style="display: flex; justify-content: flex; flex:1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x6tri3n0g&hide_border=true&layout=compact&theme=algolia" style="display:flex; flex: 1; height: 160px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=x6tri3n0g&show_icons=true&count_private=true&hide_border=true&theme=algolia" style="display:flex; flex: 1; height: 160px;" />
 </div>
