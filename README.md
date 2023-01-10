@@ -18,13 +18,14 @@
       <img 
         align="center" 
         src="https://github-readme-stats.vercel.app/api/?username=x6tri3n0g&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" 
-        style="height: 285px"
+        style="height: 260px"
        />
     </a>
     <a href="https://github.com/x6tri3n0g/github-readme-stats">
       <img 
         align="center" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=x6tri3n0g" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=x6tri3n0g"
+        style="height: 260px"
       />
     </a>
 </div>
