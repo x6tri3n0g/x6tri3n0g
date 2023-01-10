@@ -17,7 +17,7 @@
     <a href="https://github.com/x6tri3n0g/github-readme-stats">
       <img 
         align="center" 
-        src="https://github-readme-stats.vercel.app/api/?username=x6tri3n0g&show_icons=true&theme=dark"
+        src="https://github-readme-stats.vercel.app/api/?username=x6tri3n0g&show_icons=true&theme=radical"
         style="height: 230px"
        />
     </a>
