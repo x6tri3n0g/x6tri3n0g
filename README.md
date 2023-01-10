@@ -13,13 +13,11 @@
 
 <br />
 
-![x6tri3n0g's GitHub stats](https://github-readme-stats.vercel.app/api/?username=x6tri3n0g&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x6tri3n0g)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/x6tri3n0g/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=x6tri3n0g&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/x6tri3n0g/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x6tri3n0g" />
-</a>
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center">
+    <a href="https://github.com/x6tri3n0g/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/?username=x6tri3n0g&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+    </a>
+    <a href="https://github.com/x6tri3n0g/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x6tri3n0g" />
+    </a>
+</div>
