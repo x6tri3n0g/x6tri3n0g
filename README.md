@@ -13,7 +13,7 @@
 
 <br />
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center">
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; max-height:260px">
     <a href="https://github.com/x6tri3n0g/github-readme-stats">
       <img 
         align="center" 
