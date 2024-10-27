@@ -7,6 +7,15 @@
     
 </div>
 
+<ul>
+    <li>Aiming to build products that drive business growth.</li>
+	<li>Passionate about user-friendly UX/UI design.</li>
+	<li>Enthusiastic about web technologies that connect the world.</li>
+	<li>Continuously leveraging data to generate innovative ideas.</li>
+	<li>Interested in integrating cutting-edge technologies into products.</li>
+</ul>
+
+
 <br />
 
 > Perfection [in design] is achieved, not when there is nothing more to add, but when there is nothing left to take away.  
