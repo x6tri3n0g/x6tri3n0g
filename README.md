@@ -1,15 +1,15 @@
 <div align="center">
     
 [![Linkedin](https://img.shields.io/badge/hyun.hwang-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/xtring/)
-[![TechBlog - tistory](https://img.shields.io/badge/TechBlog-%231DA1F2.svg?style=for-the-badge&logoColor=black)](https://xtring-dev.tistory.com/)
-[![TechBlog - new](https://img.shields.io/badge/TechBlog-%231DA1F2.svg?style=for-the-badge&logoColor=white)](https://x6tri3n0g.github.io/)
+[![TechBlog - tistory](https://img.shields.io/badge/TechBlog-%231DA1F2.svg?style=for-the-badge&logoColor=white)](https://xtring-dev.tistory.com/)
 [![Instagram](https://img.shields.io/badge/xtring-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/x6tri3n0g/)
 [![GitBook](https://img.shields.io/badge/GitBook-%3736FF.svg?style=for-the-badge&logoColor=blue)](https://xtring.gitbook.io)
-    
+
+🏄‍♂️ [New Tech Blog](https://x6tri3n0g.github.io/)
 </div>
 
 <ul>
-    <li>Aiming to build products that drive business growth.</li>
+	<li>Aiming to build products that drive business growth.</li>
 	<li>Passionate about user-friendly UX/UI design.</li>
 	<li>Enthusiastic about web technologies that connect the world.</li>
 	<li>Continuously leveraging data to generate innovative ideas.</li>
