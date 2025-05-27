@@ -23,7 +23,7 @@
 > “디자인에서의 완벽함은 더할 것이 없을 때가 아니라,  
 > 더 이상 뺄 것이 없을 때 완성된다.”  
 >   
-> — *Perfection [in design] is achieved, not when there is nothing more to add,*  
+> *Perfection [in design] is achieved, not when there is nothing more to add,*  
 > *but when there is nothing left to take away.*  
 > – Antoine de Saint-Exupéry
 
