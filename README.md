@@ -37,11 +37,11 @@
         style="height: 230px"
        />
     </a>
-    <a href="https://github.com/x6tri3n0g/github-readme-stats">
+<!--     <a href="https://github.com/x6tri3n0g/github-readme-stats">
       <img 
         align="center" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=x6tri3n0g"
         style="height: 230px"
       />
-    </a>
+    </a> -->
 </div>
