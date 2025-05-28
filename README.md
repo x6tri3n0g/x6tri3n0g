@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/xtring-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/x6tri3n0g/)
 [![GitBook](https://img.shields.io/badge/GitBook-%3736FF.svg?style=for-the-badge&logoColor=blue)](https://xtring.gitbook.io)
 
-🏄‍♂️ [![New Tech Blog]](https://xtring-dev-blog.pages.dev/)
+🏄‍♂️ [New Tech Blog](https://xtring-dev-blog.pages.dev/)
 
 </div>
 
